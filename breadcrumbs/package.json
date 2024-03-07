@@ -11,9 +11,11 @@
   },
   "dependencies": {
     "react": "^18.2.0",
+    "react-bootstrap": "^2.10.1",
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.21.1",
     "vibe": "^0.9.4"
+  
   },
   "devDependencies": {
     "@types/react": "^18.2.43",
